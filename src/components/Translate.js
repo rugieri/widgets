@@ -4,6 +4,30 @@ import Convert from './Convert';
 
 const options = [
   {
+    label: 'Portuguese (Brazil)',
+    value: 'pt-BR',
+  },
+  {
+    label: 'Portuguese',
+    value: 'pt',
+  },
+  {
+    label: 'French',
+    value: 'fr',
+  },
+  {
+    label: 'Japanese',
+    value: 'ja',
+  },
+  {
+    label: 'Russian',
+    value: 'ru',
+  },
+  {
+    label: 'Spanish',
+    value: 'es',
+  },
+  {
     label: 'Afrikaans',
     value: 'af',
   },
