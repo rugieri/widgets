@@ -1,5 +1,7 @@
 # Widgets
 
+A simple react app that unites apps:Accordion, Dropdown, Search and Translate into a single one
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
